@@ -1,0 +1,10 @@
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/exceptions/MealNotFoundAdvice.java
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/domain/MealsRepository.java
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/FoodRestServiceApplication.java
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/domain/MealType.java
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/controllers/MealsRestRpcStyleController.java
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/exceptions/MealNotFoundException.java
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/controllers/MealsRestController.java
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/domain/Meal.java
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/domain/Order.java
+/home/olgerard/Documents/LAB_Sessions/dsgt2-rest/src/main/java/be/kuleuven/foodrestservice/domain/OrderConfirmation.java
